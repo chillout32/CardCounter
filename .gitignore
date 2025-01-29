@@ -1,0 +1,4 @@
+myenv/
+*.pyd
+*.dll
+*.h5
